@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
 > Module 1 first solo project, basic page with one main branch, one feature branch and three files.
 
